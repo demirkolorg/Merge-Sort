@@ -24,8 +24,8 @@ Abdullah Demirkol'a patika.dev sitesinde [ademirkol](https://app.patika.dev/adem
       16,21,11-->21,11;
       
       21,11-->11,21;
-      16-->16;
-      8-->.8;
+      16-->.16;
+      8-->>8;
       12,22-->.12,22;
       .8-->.8,12,22;
       .12,22-->.8,12,22;
