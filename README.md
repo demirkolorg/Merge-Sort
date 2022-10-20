@@ -16,8 +16,10 @@ Abdullah Demirkol'a patika.dev sitesinde [ademirkol](https://app.patika.dev/adem
   graph TD;
       16,21,11,8,12,22-->8,12,22;
       16,21,11,8,12,22-->16,21,11;
+
       8,12,22-->8;
       8,12,22-->12,22;
+      
       16,21,11-->16;
       16,21,11-->21,11;
       21,11-->11,21;
